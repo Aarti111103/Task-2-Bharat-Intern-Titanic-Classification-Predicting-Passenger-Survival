@@ -1,4 +1,4 @@
-# Titanic Classification: Predicting Passenger Survival
+# Task-2 Bharat Intern Titanic Classification: Predicting Passenger Survival
 ## 🌊 Introduction
 Welcome to the Titanic Classification project! The tragic sinking of the RMS Titanic has become one of the most famous maritime disasters in history. But it also provides a fascinating dataset for data scientists. In this project, we’ll build a predictive model to determine the likelihood of survival for passengers on the Titanic, using various data science techniques in Python.
 
